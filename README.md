@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alicia McKinney. Call me, Lisa.</h1>
 <h3 align="center">Aspiring full-stack developer.</h3>
 
-- 🔭 I’m currently working on [What to Wear](https://acozycoder.github.io/se_project_react/)
+- 🔭 I’m currently working on [DREAM](https://github.com/acozycoder/dream_board)
 
 - 🌱 I’m currently learning **Back-End Authentication and Authorization**
 
-- 💬 Ask me about **html, css**
+- 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **amckin810@gmail.com**
 
