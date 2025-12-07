@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alicia McKinney. Call me, Lisa.</h1>
 <h3 align="center">Aspiring full-stack developer.</h3>
-<h4>I’m an aspiring full stack developer who creates technology with purpose and impact. My background in education and project management has equipped me with strong leadership, communication, and problem-solving skills that complement my technical growth. Recently, I built a web application that helps users track prayers and access the Bible, reflecting my passion for developing tools that promote reflection, connection, and positive personal growth. I’m especially drawn to opportunities at the intersection of technology, humanitarian work, education, and gaming; fields where innovation can uplift and connect people in meaningful ways. My goal is to continue expanding my skills in front-end and back-end development, contributing to projects that combine creativity, empathy, and technology to make a lasting impact. </h4>
+I’m an aspiring full stack developer who creates technology with purpose and impact. My background in education and project management has equipped me with strong leadership, communication, and problem-solving skills that complement my technical growth. Recently, I built a web application that helps users track prayers and access the Bible, reflecting my passion for developing tools that promote reflection, connection, and positive personal growth. I’m especially drawn to opportunities at the intersection of technology, humanitarian work, education, and gaming; fields where innovation can uplift and connect people in meaningful ways. My goal is to continue expanding my skills in front-end and back-end development, contributing to projects that combine creativity, empathy, and technology to make a lasting impact.
 
 - 🔭 I’m currently working on [DREAM](https://github.com/acozycoder/dream_board)
 
@@ -11,6 +11,12 @@
 - 📫 How to reach me **amckin810@gmail.com**
 
 - ⚡ Fun fact **I started coding during my journey of healing my inner child.**
+
+<h3>Take a look at my most recent projects:</h3>
+- [DREAM](https://github.com/acozycoder/dream_board) - A digital prayer board with a fully integrated Bible fetched from an API.
+- [What to Wear](https://github.com/acozycoder/se_project_express) - A full-stack clothing suggestion app that provides suggestions based on the current weather fetched from an API.
+- [Spots](https://github.com/acozycoder/se_project_spots) - A web based social media application.
+- [Triple Peaks Coffeehouse](https://github.com/acozycoder/se_project_coffeeshop) - A landing page for a coffeehouse.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
