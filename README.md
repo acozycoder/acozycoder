@@ -13,9 +13,13 @@ I’m an aspiring full stack developer who creates technology with purpose and i
 - ⚡ Fun fact **I started coding during my journey of healing my inner child.**
 
 <h3>Take a look at my most recent projects:</h3>
+
 - [DREAM](https://github.com/acozycoder/dream_board) - A digital prayer board with a fully integrated Bible fetched from an API.
+
 - [What to Wear](https://github.com/acozycoder/se_project_express) - A full-stack clothing suggestion app that provides suggestions based on the current weather fetched from an API.
+  
 - [Spots](https://github.com/acozycoder/se_project_spots) - A web based social media application.
+  
 - [Triple Peaks Coffeehouse](https://github.com/acozycoder/se_project_coffeeshop) - A landing page for a coffeehouse.
 
 <h3 align="left">Connect with me:</h3>
